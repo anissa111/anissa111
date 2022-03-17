@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software engineer working on the NCAR GeoCAT team!
+
+<p align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anissa111&show_icons=true&theme=material-palenight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anissa111&theme=material-palenight" />
+</p>
