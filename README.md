@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 I am a python software engineer! I'm currently with the GeoCAT team at NCAR.
 
 <p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anissa111&show_icons=true&theme=material-palenight" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anissa111&theme=material-palenight" />
+   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=anissa111&theme=material-palenight" />
 </p>
