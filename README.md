@@ -18,15 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![pronouns badge](https://img.shields.io/badge/pronouns-she%2Fher-blueviolet)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/AnissaZacharias)
-[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-2666-8493&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2666-8493)
-[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anissazacharias/)
+<p align="center">
+   <img alt="she/her badge" src="https://img.shields.io/badge/she%2Fher-yellow?style=for-the-badge">
+   <img alt="orcid badge" src="https://img.shields.io/badge/0000--0002--2666--8493-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&link=https%3A%2F%2Forcid.org%2F0000-0002-2666-8493">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&link=https%3A%2F%2Fspeakerdeck.com%2Fanissa111">
+   <img alt="linkedin badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanissazacharias%2F">
+</p>
 
 
 I am a python software engineer currently with the GeoCAT team at NCAR.
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anissa111&theme=material-palenight" />
-   <img src="https://github-readme-stats.vercel.app/api?username=anissa111&theme=material-palenight&hide_rank=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anissa111&theme=gruvbox&exclude_days=Sat,Sun&disable_animations=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=anissa111&theme=gruvbox&rank_icon=percentile&disable_animations=true" />
 </p>
+
