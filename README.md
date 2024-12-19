@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 
-I am a python software engineer currently with the GeoCAT team at NCAR.
+I am a python software engineer currently with the GeoCAT team at NSF NCAR.
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anissa111&theme=gruvbox&exclude_days=Sat,Sun&disable_animations=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=anissa111&theme=gruvbox&rank_icon=percentile&disable_animations=true" />
 </p>
 
