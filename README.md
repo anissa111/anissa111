@@ -1,22 +1,6 @@
-# Anissa Zacharias
+# Anissa Wren Zacharias
 
-
-### Scientific Software Engineer
-
-<!--
-**anissa111/anissa111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a scientific software engineer, working primarily in Python (with a soft spot for Fortran).
 
 <p align="center">
    <img alt="she/her badge" src="https://img.shields.io/badge/she%2Fher-yellow?style=for-the-badge">
@@ -24,11 +8,3 @@ Here are some ideas to get you started:
    <img alt="Static Badge" src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&link=https%3A%2F%2Fspeakerdeck.com%2Fanissa111">
    <img alt="linkedin badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanissazacharias%2F">
 </p>
-
-
-I am a python software engineer currently with the GeoCAT team at NSF NCAR.
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=anissa111&theme=gruvbox&rank_icon=percentile&disable_animations=true" />
-</p>
-
